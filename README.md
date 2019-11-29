@@ -1,6 +1,6 @@
 # Java Users Group - JUGBOL Launch
 
-Tittle: Java desde 9 hasta 13 y mas ...
+Java desde 9 hasta 13 y mas ...
 --------------------------------------------------------------------------------------
 
 Abstract:
@@ -9,7 +9,7 @@ Esta sesión presentará como está evolucionando este lenguaje y algunas de las
 
 Speaker: Hillmer Chona (Medellin JUG Leader)
 
-Title: A Taste of Microprofile (aka Microprofile Introduction) # projectmp-intro
+A Taste of Microprofile (aka Microprofile Introduction) # projectmp-intro
 --------------------------------------------------------------------------------------
 
 Abstract
@@ -19,7 +19,7 @@ Esta sesión estará destinada a explicar el qué, cómo y por qué de este tecn
 
 Speaker: Julio Cesar Rocha Vera
 
-Title: Apache Kafka desde una perspectiva Java Dev  # project kafka-basics
+Apache Kafka desde una perspectiva Java Dev  # project kafka-basics
 --------------------------------------------------------------------------------------
 
 Abstract:
@@ -29,7 +29,7 @@ En la sesión se hará una introducción a Kafka, pros y contras desde el punto 
 
 Speaker: Victor Ramos
 
-Title: Implementando caché en Aplicaciones Web Java  # project java-cache
+Implementando caché en Aplicaciones Web Java  # project java-cache
 --------------------------------------------------------------------------------------
 
 Abstract:
@@ -39,4 +39,9 @@ Esta presentación está enfocada en mostrar los diferentes opciones para la imp
 
 Speaker: Carlos Roberto Fernandez
 
-# November 28, 2019 @JUGBOL
+# November 28, 2019
+https://www.meetup.com/es/JUGBOL/events/266758624/
+https://twitter.com/BolivianJUG/status/1200417281752420352
+https://www.facebook.com/JUGBOL
+https://www.youtube.com/channel/UC3G0BODuA9PYbIEvDigi0iA
+
