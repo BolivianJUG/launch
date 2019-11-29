@@ -1,0 +1,20 @@
+version: "3.3"
+
+services:
+  jmicros:
+    hostname: jmicros
+    image: jmicros
+    ports:
+      - 8050:8080
+    depends_on:
+      - memcache
+
+  memcache:
+    hostname: memcache
+    image: memcached
+    ports:
+    - "11212:11211"
+    environment:
+    - MEMCACHED_CACHE_SIZE=128
+    - MEMCACHED_USERNAME=mcache
+    - MEMCACHED_PASSWORD=mcache123!
