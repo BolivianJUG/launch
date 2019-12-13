@@ -9,6 +9,8 @@ Esta sesión presentará como está evolucionando este lenguaje y algunas de las
 
 Speaker: Hillmer Chona (Medellin JUG Leader)
 
+Slides: https://bit.ly/33UZEzD
+
 A Taste of Microprofile (aka Microprofile Introduction) # projectmp-intro
 --------------------------------------------------------------------------------------
 
