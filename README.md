@@ -15,7 +15,7 @@ A Taste of Microprofile (aka Microprofile Introduction) # projectmp-intro
 Abstract
 Microprofile define un modelo estándar de programación de aplicaciones liviano altamente evolutivo en entornos Java EE/Jakarta EE
 
-Esta sesión estará destinada a explicar el qué, cómo y por qué de este tecnología, teniendo también ejemplos en vivo de varias especificaciones.
+Esta sesión estará destinada a explicar el qué, cómo y por qué de esta tecnología, teniendo también ejemplos en vivo de varias especificaciones.
 
 Speaker: Julio Cesar Rocha Vera
 
