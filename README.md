@@ -42,8 +42,8 @@ Esta presentación está enfocada en mostrar los diferentes opciones para la imp
 Speaker: Carlos Roberto Fernandez
 
 # November 28, 2019
-https://www.meetup.com/es/JUGBOL/events/266758624/  <br/>
+https://www.meetup.com/es/BolivianJUG/events/266758624/  <br/>
 https://twitter.com/BolivianJUG/status/1200417281752420352  <br/>
-https://www.facebook.com/JUGBOL  <br/>
+https://www.facebook.com/BolivianJUG  <br/>
 https://www.youtube.com/channel/UC3G0BODuA9PYbIEvDigi0iA  <br/>
 
